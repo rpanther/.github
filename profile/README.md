@@ -13,4 +13,4 @@
 Meet Panther:
 * 🐆 Website: [rpanther.github.io](https://rpanther.github.io/)
 * 🦄 Do you need an help? [Discord](https://discord.gg/HjWsdTxCjY)
-* 🍕 nanosaur is proudly part of [pizzarobotics](https://pizzarobotics.org) community
+* 🍕 Panther is proudly part of [pizzarobotics](https://pizzarobotics.org) community
